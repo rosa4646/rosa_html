@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+    <head>
+            <title>Rosa</title>
+            <meta charset="UTF-8">
+            <meta name="descripton" content="Rosa is the best ever person and I am amazing">
+            <meta name="author" content="rosa/vale">
+            <!--this is my first attempt at writing HTML, if u cant tell-->
+    </head>
+    <body>
+            <h1>hiiiiii</h1>
+            <h2>....yo?</h2>
+            <p>This is <strong><em>ROSA</em></strong>'s html page! :)</p>
+            <a href="https://github.com/rosa4646">Rosa Git</a>
+    </body>
+</html>
